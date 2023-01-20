@@ -1,0 +1,52 @@
+.header {
+    padding: 20px 0;
+}
+
+.contact {
+    text-align: right;
+}
+
+a {
+    font-size: 18px;
+    text-decoration: none;
+}
+
+.inactive a {
+    color: #828282;
+}
+
+.active a{
+    color: #070707 ;
+}
+
+.info{
+    height: 250px;
+}
+
+.name{
+    padding-top: 55px;
+}
+
+.job {
+    color: #070707;
+    font-size: 18px;
+    padding-top: 110px;
+}
+
+.lang {
+    color: #828282;
+    transform: rotate(-90deg);
+    text-align: right;
+    position: absolute;
+    top: 15%;
+    right: 17%;
+    padding-top: 80px;
+    display: flex;
+}
+.tick{
+    padding: 0 5px;
+}
+
+.ava img {
+    width: 100%;
+}
