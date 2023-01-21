@@ -2,10 +2,6 @@
     padding: 20px 0;
 }
 
-.contact {
-    text-align: right;
-}
-
 a {
     font-size: 18px;
     text-decoration: none;
@@ -15,15 +11,15 @@ a {
     color: #828282;
 }
 
-.active a{
-    color: #070707 ;
+.active a {
+    color: #070707;
 }
 
-.info{
+.info {
     height: 250px;
 }
 
-.name{
+.name {
     padding-top: 55px;
 }
 
@@ -43,10 +39,23 @@ a {
     padding-top: 80px;
     display: flex;
 }
-.tick{
+
+.tick {
     padding: 0 5px;
 }
 
-.ava img {
+img {
     width: 100%;
+}
+
+.about {
+    background: #F6F6F6;
+    height: 500px;
+    font-size: 20px;
+    padding: 100px;
+}
+
+.side{
+    min-height: 89vh;
+    background: #F6F6F6;
 }
